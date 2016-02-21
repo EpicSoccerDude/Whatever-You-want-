@@ -1,0 +1,13 @@
+body {
+  font-family: 'Century Gothic';
+  text-align: center;
+  background: url("http://p1.pichost.me/i/45/1681680.jpg");
+}
+
+input[type=Click] {
+  padding: 20px
+}
+
+p {
+  color: red;
+}
